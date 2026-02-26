@@ -1,0 +1,9 @@
+Flask
+requests
+python-dotenv
+textblob
+nltk
+beautifulsoup4
+numpy
+pandas
+scikit-learn
